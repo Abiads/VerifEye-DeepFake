@@ -57,6 +57,8 @@ Our system addresses the growing threat of malicious deepfake content in digital
 
 <video width="800" controls>
   <source src="https://github.com/Abiads/VerifEye-DeepFake/blob/1110ddd5ed056dd1f10411abde87a5a2b9c3f31a/DeepFake-Detection_v720P.mp4" type="video/mp4">
+  <source src="./DeepFake-Detection_v720P.mp4" type="video/mp4">
+  <source src="DeepFake-Detection_v720P.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -81,8 +83,19 @@ Our system addresses the growing threat of malicious deepfake content in digital
 </div>
 
 ### 🔗 Direct Links
-- **[📺 Full Demo Video](https://github.com/Abiads/VerifEye-DeepFake/blob/1110ddd5ed056dd1f10411abde87a5a2b9c3f31a/DeepFake-Detection_v720P.mp4)** - Download or view externally
-- **[🧪 Test Sample Video](https://github.com/Abiads/VerifEye-DeepFake/blob/1aeae5d9536a3c804438caf938232b7b240e46a2/Deploy/static/upload/adohikbdaz.mp4)** - Download or view externally
+- **[📺 Full Demo Video (GitHub)](https://github.com/Abiads/VerifEye-DeepFake/blob/1110ddd5ed056dd1f10411abde87a5a2b9c3f31a/DeepFake-Detection_v720P.mp4)** - GitHub permalink
+- **[📺 Full Demo Video (Local)](./DeepFake-Detection_v720P.mp4)** - Local file path
+- **[🧪 Test Sample Video (GitHub)](https://github.com/Abiads/VerifEye-DeepFake/blob/1aeae5d9536a3c804438caf938232b7b240e46a2/Deploy/static/upload/adohikbdaz.mp4)** - GitHub permalink
+- **[🧪 Test Sample Video (Local)](./Deploy/static/upload/adohikbdaz.mp4)** - Local file path
+
+### 📁 File Locations
+```
+📂 Project Root/
+├── 📹 DeepFake-Detection_v720P.mp4          (Main demo video)
+└── 📂 Deploy/static/upload/
+    ├── 📹 adohikbdaz.mp4                     (Sample test video)
+    └── 📹 adylbeequz.mp4                     (Additional sample)
+```
 
 ## ⚠️ Why DeepFake Detection Matters
 
